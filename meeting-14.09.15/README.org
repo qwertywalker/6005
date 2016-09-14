@@ -399,18 +399,18 @@ http://eplace.elthech.ru
 * Вопросы
 За месяц до начала сессии.
 
-[[file:P60914-203338.jpg]]
-[[file:P60914-203340.jpg]]
-[[file:P60914-203349.jpg]]
-[[file:P60914-203350.jpg]]
-[[file:P60914-204226.jpg]]
-[[file:P60914-204232.jpg]]
-[[file:P60914-204233.jpg]]
-[[file:P60914-205152.jpg]]
-[[file:P60914-205157.jpg]]
-[[file:P60914-205702.jpg]]
-[[file:P60914-205704.jpg]]
-[[file:P60914-205709.jpg]]
-[[file:P60914-205712.jpg]]
-[[file:P60914-205722.jpg]]
-[[file:P60914-205725.jpg]]
+file:img/P60914-203338.jpg
+file:img/P60914-203340.jpg
+file:img/P60914-203349.jpg
+file:img/P60914-203350.jpg
+file:img/P60914-204226.jpg
+file:img/P60914-204232.jpg
+file:img/P60914-204233.jpg
+file:img/P60914-205152.jpg
+file:img/P60914-205157.jpg
+file:img/P60914-205702.jpg
+file:img/P60914-205704.jpg
+file:img/P60914-205709.jpg
+file:img/P60914-205712.jpg
+file:img/P60914-205722.jpg
+file:img/P60914-205725.jpg
