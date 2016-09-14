@@ -91,14 +91,14 @@ http://www.eltech.ru
 Шануренко Александр Константинович
 
 * Преподаватели :TOC:
-[[mailto:zaochnikleti@mail.ru]]
+[[zaochnikleti@mail.ru]]
 
 Пароль: popovizobrelradio (попов изобрел радио)
 
 ** Кто это?
 
 Елена Ивановна Беседина
-[[mailto:elivbesedina@mail.ru]]
+[[elivbesedina@mail.ru]]
 
 *** Заметки
 Сделать задания до 25.10.16
@@ -124,7 +124,7 @@ http://www.eltech.ru
 *** Задания
 
 Абрамова Мария Николаевна
-[[mailto:matemleti@gmail.com]]
+[[matemleti@gmail.com]]
 
 **** Расписание
 Среда с 14:00 до 19:00 
@@ -181,7 +181,7 @@ http://zao.vm-2.spb.ru 1 курс -> 1 семестр
 *** Преподаватель
 Владимир Иванович Анисимов
 
-[[mailto:vanisimov2015@mail.ru]]
+[[vanisimov2015@mail.ru]]
 
 http://vianosimov2005.narod.ru
 
@@ -205,7 +205,7 @@ http://vianosimov2005.narod.ru
 ** Инженерная компьютерная графика
 Владимир Николаевич Вересов
 
-[[mailto:vnveresov@etu.ru]]
+[[vnveresov@etu.ru]]
 
 http://www.eltech.ru -> ФИБС -> ПМИГ -> читаемые дисциплины "Инженерная графика"
 
@@ -280,7 +280,7 @@ http://eplace.eltech.ru/lotus/quickr/
 
 ** Преподаватель программирование для группы 6091
 
-[[mailto:s_v_vlasenko@mail.ru]]
+[[s_v_vlasenko@mail.ru]]
 
 8-921-302-83-91
 
@@ -290,7 +290,7 @@ http://eplace.eltech.ru/lotus/quickr/
 
 Доступ к экзамену в январе.
 
-[[mailto:ikgp_etu@mail.ru]]
+[[ikgp_etu@mail.ru]]
 
 ИКГБ 5323 полный набор материала для истории по заочной.
 
@@ -394,8 +394,8 @@ http://eplace.elthech.ru
 
 До середины ноября по адресам:
 
-- [[mailto:bugrov.an@mail.ru]]
-- [[mailto:alexander.n.bugrov@gmail.com]]
+- [[bugrov.an@mail.ru]]
+- [[alexander.n.bugrov@gmail.com]]
 
 *** Контакты
 
@@ -435,7 +435,7 @@ http://eplace.elthech.ru
 192-376 СПБ улица Профессора попова, дом 5, СБП-ГТУ Лэти открытый факультет (деканат) ПФ.
 
 ** email
-[[mailto:of@yandex.ru]]
+[[of@yandex.ru]]
 
 ** Материал
 Методический материал на сайте кафедры для заочной формы обучения.
