@@ -1,0 +1,15 @@
+* Комплексные числа
+** Определение
+Комплексное число - это число, которое может быть 
+#+BEGIN_LATEX
+\begin{maxima}
+f: x/(x^3-3*x+2),     /* Integrating it */
+tex('integrate(f,x)), /* will show its integral... */
+print("="),
+tex(integrate(f,x)),  /* ...and the result */
+print("+K")
+\end{maxima}
+#+END_LATEX
+** Различные формы представления
+** Действия над ними
+** [5. Гл.VI ]
