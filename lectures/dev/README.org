@@ -1,4 +1,6 @@
 #+TITLE: Программирование
 
 * Документация
+Взято с http://vianisimov2005.narod.ru/
+
 [[file:doc/]]
