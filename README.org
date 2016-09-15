@@ -1,3 +1,5 @@
+#+TITLE: ЛЭТИ 6005 Вычислительная техника (ВТ)
+
 * Встречи
 - [[file:meeting-14.09.15/README.org][14.09.15]]
 * Сайты
@@ -9,3 +11,9 @@
 
 * Программирование
 [[file:lectures/dev/README.org][Подробнее]]
+
+* Контакты
+
+- [[https://vk.com/club128816610][Группа ВК]]
+- [[https://vk.com/wigust][ВК]]
+- [[mailto:opykhalov@yandex.ru][opykhalov@yandex.ru]]
