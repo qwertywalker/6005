@@ -5,6 +5,7 @@
 #+LANGUAGE: ru
 
 #+STARTUP: no
+#+STARTUP: noinlineimages
 
 #+LaTeX_CLASS: article
 #+LaTeX_CLASS_OPTIONS: [a4paper]
@@ -126,14 +127,14 @@ http://www.eltech.ru
 Шануренко Александр Константинович
 
 * Преподаватели :TOC:
-[[zaochnikleti@mail.ru]]
+[[mailto:zaochnikleti@mail.ru][zaochnikleti@mail.ru]]
 
 Пароль: popovizobrelradio (попов изобрел радио)
 
 ** Иностранный язык (английский)
 
 Елена Ивановна Беседина
-[[elivbesedina@mail.ru]]
+[[mailto:elivbesedina@mail.ru][elivbesedina@mail.ru]]
 
 *** Заметки
 Сделать задания до 25.10.16
@@ -157,7 +158,7 @@ http://www.eltech.ru
 *** Преподаватель
 
 Абрамова Мария Николаевна
-[[matemleti@gmail.com]]
+[[mailto:matemleti@gmail.com][matemleti@gmail]]
 
 *** Консультация
 
@@ -220,7 +221,7 @@ http://zao.vm-2.spb.ru 1 курс -> 1 семестр
 *** Преподаватель
 Владимир Иванович Анисимов
 
-[[vanisimov2005@mail.ru]]
+[[mailto:vanisimov2005@mail.ru][vanisimov2005@mail.ru]]
 
 http://vianisimov2005.narod.ru
 
@@ -247,7 +248,7 @@ http://vianisimov2005.narod.ru
 *** Преподаватель
 Владимир Николаевич Вересов
 
-[[vnveresov@etu.ru]]
+[[mailto:vnveresov@etu.ru][vnveresov@etu.ru]]
 
 *** Задания
 http://www.eltech.ru -> ФИБС -> ПМИГ -> читаемые дисциплины "Инженерная графика"
@@ -327,7 +328,7 @@ http://eplace.eltech.ru/lotus/quickr/
 
 ** Преподаватель программирование для группы 6091
 
-[[s_v_vlasenko@mail.ru]]
+[[mailto:s_v_vlasenko@mail.ru][s_v_vlasenko@mail.ru]]
 
 8-921-302-83-91
 
@@ -337,7 +338,7 @@ http://eplace.eltech.ru/lotus/quickr/
 
 Доступ к экзамену в январе.
 
-[[ikgp_etu@mail.ru]]
+[[mailto:ikgp_etu@mail.ru][ikgp_etu@mail.ru]]
 
 ИКГБ 5323 полный набор материала для истории по заочной.
 
@@ -441,8 +442,8 @@ http://eplace.elthech.ru
 
 До середины ноября по адресам:
 
-- [[bugrov.an@mail.ru]]
-- [[alexander.n.bugrov@gmail.com]]
+- [[mailto:bugrov.an@mail.ru][bugrov.an@mail.ru]]
+- [[mailto:alexander.n.bugrov@gmail.com][alexander.n.bugrov@gmail.com]]
 
 *** Контакты
 
@@ -480,7 +481,7 @@ http://eplace.elthech.ru
 192-376 СПБ улица Профессора попова, дом 5, СБП-ГТУ Лэти открытый факультет (деканат) ПФ.
 
 ** email
-[[dekanatof@yandex.ru]]
+[[mailto:dekanatof@yandex.ru][dekanatof@yandex.ru]]
 
 ** Материал
 Методический материал на сайте кафедры для заочной формы обучения.
