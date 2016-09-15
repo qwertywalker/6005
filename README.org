@@ -17,3 +17,5 @@
 - [[https://vk.com/club128816610][Группа ВК]]
 - [[https://vk.com/wigust][ВК]]
 - [[mailto:opykhalov@yandex.ru][opykhalov@yandex.ru]]
+* Почта
+[[file:email/README.org][Подробнее]]
