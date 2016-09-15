@@ -1,5 +1,11 @@
-[[http://www.eltech.ru/][- Главный сайт]]
-[[http://eplace.eltech.ru/][- Портал совместного обучения]]
+* Встречи
+- [[file:meeting-14.09.15/README.org]]
+* Сайты
+- [[http://www.eltech.ru/][Главный сайт]]
+- [[http://eplace.eltech.ru/][Портал совместного обучения]]
+
+* История
+[[file:lectures/history/README.org][Подробнее]]
 
 * Программирование
-[[file:/lectures/dev/README.org]]
+[[file:lectures/dev/README.org][Подробнее]]
