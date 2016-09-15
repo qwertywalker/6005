@@ -1,5 +1,5 @@
 * Встречи
-- [[file:meeting-14.09.15/README.org]]
+- [[file:meeting-14.09.15/README.org][14.09.15]]
 * Сайты
 - [[http://www.eltech.ru/][Главный сайт]]
 - [[http://eplace.eltech.ru/][Портал совместного обучения]]
