@@ -1,0 +1,382 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Russian resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_RUS)
+#ifdef _WIN32
+LANGUAGE LANG_RUSSIAN, SUBLANG_DEFAULT
+#pragma code_page(1251)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)\r\n"
+    "#ifdef _WIN32\r\n"
+    "LANGUAGE 9, 1\r\n"
+    "#pragma code_page(1252)\r\n"
+    "#endif\r\n"
+    "#include ""res\\frqvc.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
+    "#include ""afxres.rc""         // Standard components\r\n"
+    "#endif\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON    DISCARDABLE     "res\\frqvc.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_FRQVC_DIALOG DIALOGEX 0, 0, 363, 206
+STYLE DS_MODALFRAME | WS_MINIMIZEBOX | WS_MAXIMIZEBOX | WS_POPUP | 
+    WS_VISIBLE | WS_CAPTION | WS_SYSMENU
+EXSTYLE WS_EX_APPWINDOW
+CAPTION "Моделирование систем в частотной области"
+MENU IDR_MENU1
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    LISTBOX         IDC_LST,23,23,328,166,LBS_NOINTEGRALHEIGHT | WS_VSCROLL | 
+                    WS_TABSTOP
+END
+
+IDD_SIZE DIALOG DISCARDABLE  0, 0, 261, 189
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Размерность схемы"
+FONT 8, "MS Sans Serif"
+BEGIN
+    EDITTEXT        IDC_NV,17,18,40,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_NR,16,42,40,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_NC,16,65,40,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_NL,16,88,40,14,ES_AUTOHSCROLL
+    DEFPUSHBUTTON   "OK",IDOK,193,159,50,14
+    LTEXT           "Резисторы",IDC_STATIC,65,45,47,8
+    LTEXT           "Число узлов",IDC_STATIC,67,22,54,8
+    LTEXT           "Конденсаторы",IDC_STATIC,68,69,49,8
+    LTEXT           "Индуктивности",IDC_STATIC,69,91,52,8
+END
+
+IDD_R DIALOGEX 0, 0, 237, 154
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Описание резисторов"
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    EDITTEXT        IDC_NPR,83,38,40,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_NMR,83,60,40,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_ZR,83,84,40,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_NEXTR,83,14,40,14,ES_AUTOHSCROLL
+    RTEXT           "Резистор  R",IDC_STATIC,18,18,59,8
+    LTEXT           "n+",IDC_STATIC,132,40,9,8
+    LTEXT           "n-",IDC_STATIC,133,63,8,8
+    LTEXT           "Сопротивление (ком)",IDC_STATIC,133,87,72,8
+    DEFPUSHBUTTON   "Следующий",IDC_NEXTR__BUTTON,71,116,74,14,0,
+                    WS_EX_CLIENTEDGE | WS_EX_STATICEDGE
+END
+
+IDD_F DIALOG DISCARDABLE  0, 0, 260, 191
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Вид частотной характеристики"
+FONT 8, "MS Sans Serif"
+BEGIN
+    EDITTEXT        IDC_F1_EDIT,181,79,40,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_F2_EDIT,183,102,40,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_F3_EDIT,184,126,40,14,ES_AUTOHSCROLL
+    CONTROL         "Единственная частотная точка",IDC_F,"Button",
+                    BS_AUTORADIOBUTTON | WS_GROUP,22,18,121,10
+    CONTROL         "Линейный закон изменения частоты",IDC_DF,"Button",
+                    BS_AUTORADIOBUTTON,22,38,141,10
+    CONTROL         "Логарифмический закон изменения частоты",IDC_KF,"Button",
+                    BS_AUTORADIOBUTTON,22,58,169,10
+    EDITTEXT        IDC_T1_EDIT,23,79,152,14,ES_AUTOHSCROLL | ES_READONLY
+    EDITTEXT        IDC_T2_EDIT,23,103,153,14,ES_AUTOHSCROLL | ES_READONLY
+    EDITTEXT        IDC_T3_EDIT,23,127,154,14,ES_AUTOHSCROLL | ES_READONLY
+    DEFPUSHBUTTON   "OK",IDC_FOK_BUTTON,81,156,50,14
+END
+
+IDD_IO DIALOG DISCARDABLE  0, 0, 200, 196
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Входные и выходные узлы"
+FONT 8, "MS Sans Serif"
+BEGIN
+    LTEXT           "Входные узлы",IDC_STATIC,67,14,55,8
+    EDITTEXT        IDC_LP_EDIT,67,34,40,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_LM_EDIT,67,59,40,14,ES_AUTOHSCROLL
+    LTEXT           "Выходные узлы",IDC_STATIC,63,86,61,8
+    EDITTEXT        IDC_KP_EDIT,65,105,40,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_KM_EDIT,67,131,40,14,ES_AUTOHSCROLL
+    DEFPUSHBUTTON   "OK",IDC_IOOK_BUTTON,65,159,50,14
+    LTEXT           "l+",IDC_STATIC,113,37,8,8
+    LTEXT           "l-",IDC_STATIC,113,61,8,8
+    LTEXT           "k+",IDC_STATIC,110,108,9,8
+    LTEXT           "k-",IDC_STATIC,113,133,8,8
+END
+
+IDD_C DIALOGEX 0, 0, 237, 154
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Описание конденсаторов"
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    EDITTEXT        IDC_NPC,83,38,40,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_NMC,83,60,40,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_ZC,83,84,40,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_NEXTC,83,14,40,14,ES_AUTOHSCROLL
+    RTEXT           "Конденсатор С",IDC_STATIC,18,18,59,8
+    LTEXT           "n+",IDC_STATIC,132,40,9,8
+    LTEXT           "n-",IDC_STATIC,133,63,8,8
+    LTEXT           "Емкость (мкф)",IDC_STATIC,133,87,72,8
+    DEFPUSHBUTTON   "Следующий",IDC_NEXTC__BUTTON,71,116,74,14,0,
+                    WS_EX_CLIENTEDGE | WS_EX_STATICEDGE
+END
+
+IDD_L DIALOGEX 0, 0, 237, 154
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Описание индуктивностей"
+FONT 8, "MS Sans Serif", 0, 0, 0x1
+BEGIN
+    EDITTEXT        IDC_NPL,83,38,40,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_NML,83,60,40,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_ZL,83,84,40,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_NEXTL,83,14,40,14,ES_AUTOHSCROLL
+    RTEXT           "Индуктивность L",IDC_STATIC,18,18,59,8
+    LTEXT           "n+",IDC_STATIC,132,40,9,8
+    LTEXT           "n-",IDC_STATIC,133,63,8,8
+    LTEXT           "Индуктивность (гн)",IDC_STATIC,133,87,72,8
+    DEFPUSHBUTTON   "Следующий",IDC_NEXTL__BUTTON,71,116,74,14,0,
+                    WS_EX_CLIENTEDGE | WS_EX_STATICEDGE
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_FRQVC_DIALOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        TOPMARGIN, 7
+    END
+
+    IDD_SIZE, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 254
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 182
+    END
+
+    IDD_R, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 230
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 147
+    END
+
+    IDD_F, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 253
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 184
+    END
+
+    IDD_IO, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 193
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 189
+    END
+
+    IDD_C, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 230
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 147
+    END
+
+    IDD_L, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 230
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 147
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_MENU1 MENU DISCARDABLE 
+BEGIN
+    POPUP "Описание"
+    BEGIN
+        MENUITEM "Ввод с клавиатуры",           ID_CONS
+        MENUITEM "Ввод из файла",               ID_FILE
+    END
+    POPUP "Директивы расчета"
+    BEGIN
+        MENUITEM "Вид частотной характеристики", ID_F
+        MENUITEM "Вх/вых узлы",                 ID_IO
+    END
+    MENUITEM "Расчет",                      ID_CALC
+    MENUITEM "Выход",                       ID_EXIT
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_STRING1             "/"
+    IDS_STRING2             "/"
+END
+
+#endif    // Russian resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////////////////
+// English (U.S.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+#endif //_WIN32
+
+#ifndef _MAC
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904B0"
+        BEGIN
+            VALUE "CompanyName", "\0"
+            VALUE "FileDescription", "frqvc MFC Application\0"
+            VALUE "FileVersion", "1, 0, 0, 1\0"
+            VALUE "InternalName", "frqvc\0"
+            VALUE "LegalCopyright", "Copyright (C) 1999\0"
+            VALUE "LegalTrademarks", "\0"
+            VALUE "OriginalFilename", "frqvc.EXE\0"
+            VALUE "ProductName", "frqvc Application\0"
+            VALUE "ProductVersion", "1, 0, 0, 1\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1200
+    END
+END
+
+#endif    // !_MAC
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_ABOUTBOX            "&About frqvc..."
+END
+
+#endif    // English (U.S.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE 9, 1
+#pragma code_page(1252)
+#endif
+#include "res\frqvc.rc2"  // non-Microsoft Visual C++ edited resources
+#include "afxres.rc"         // Standard components
+#endif
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

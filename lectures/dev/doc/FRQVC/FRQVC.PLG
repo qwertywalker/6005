@@ -1,0 +1,92 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: frqvc - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x419 /fo"Release/frqvc.res" /d "NDEBUG" /d "_AFXDLL" "C:\Documents and Settings\AVI\Мои документы\MOD_zaochn\MNS_min\FRQVC\frqvc.rc"" 
+Creating temporary file "C:\DOCUME~1\AVI\LOCALS~1\Temp\RSP3.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_AFXDLL" /Fp"Release/frqvc.pch" /Yu"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"C:\Documents and Settings\AVI\Мои документы\MOD_zaochn\MNS_min\FRQVC\C.cpp"
+"C:\Documents and Settings\AVI\Мои документы\MOD_zaochn\MNS_min\FRQVC\F.cpp"
+"C:\Documents and Settings\AVI\Мои документы\MOD_zaochn\MNS_min\FRQVC\FORM.CPP"
+"C:\Documents and Settings\AVI\Мои документы\MOD_zaochn\MNS_min\FRQVC\frqvc.cpp"
+"C:\Documents and Settings\AVI\Мои документы\MOD_zaochn\MNS_min\FRQVC\frqvcDlg.cpp"
+"C:\Documents and Settings\AVI\Мои документы\MOD_zaochn\MNS_min\FRQVC\IO.cpp"
+"C:\Documents and Settings\AVI\Мои документы\MOD_zaochn\MNS_min\FRQVC\L.cpp"
+"C:\Documents and Settings\AVI\Мои документы\MOD_zaochn\MNS_min\FRQVC\R.cpp"
+"C:\Documents and Settings\AVI\Мои документы\MOD_zaochn\MNS_min\FRQVC\SF.CPP"
+"C:\Documents and Settings\AVI\Мои документы\MOD_zaochn\MNS_min\FRQVC\SIZE.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\AVI\LOCALS~1\Temp\RSP3.tmp" 
+Creating temporary file "C:\DOCUME~1\AVI\LOCALS~1\Temp\RSP4.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_AFXDLL" /Fp"Release/frqvc.pch" /Yc"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"C:\Documents and Settings\AVI\Мои документы\MOD_zaochn\MNS_min\FRQVC\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\AVI\LOCALS~1\Temp\RSP4.tmp" 
+Creating temporary file "C:\DOCUME~1\AVI\LOCALS~1\Temp\RSP5.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:no /pdb:"Release/frqvc.pdb" /machine:I386 /out:"Release/frqvc.exe" 
+".\Release\C.obj"
+".\Release\F.obj"
+".\Release\FORM.OBJ"
+".\Release\frqvc.obj"
+".\Release\frqvcDlg.obj"
+".\Release\IO.obj"
+".\Release\L.obj"
+".\Release\R.obj"
+".\Release\SF.OBJ"
+".\Release\SIZE.obj"
+".\Release\StdAfx.obj"
+".\Release\frqvc.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\AVI\LOCALS~1\Temp\RSP5.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+C.cpp
+C:\Documents and Settings\AVI\Мои документы\MOD_zaochn\MNS_min\FRQVC\C.cpp(57) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+F.cpp
+C:\Documents and Settings\AVI\Мои документы\MOD_zaochn\MNS_min\FRQVC\F.cpp(99) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+C:\Documents and Settings\AVI\Мои документы\MOD_zaochn\MNS_min\FRQVC\F.cpp(102) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+C:\Documents and Settings\AVI\Мои документы\MOD_zaochn\MNS_min\FRQVC\F.cpp(103) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+C:\Documents and Settings\AVI\Мои документы\MOD_zaochn\MNS_min\FRQVC\F.cpp(104) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+C:\Documents and Settings\AVI\Мои документы\MOD_zaochn\MNS_min\FRQVC\F.cpp(112) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+C:\Documents and Settings\AVI\Мои документы\MOD_zaochn\MNS_min\FRQVC\F.cpp(113) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+C:\Documents and Settings\AVI\Мои документы\MOD_zaochn\MNS_min\FRQVC\F.cpp(114) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+FORM.CPP
+frqvc.cpp
+frqvcDlg.cpp
+IO.cpp
+L.cpp
+C:\Documents and Settings\AVI\Мои документы\MOD_zaochn\MNS_min\FRQVC\L.cpp(57) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+R.cpp
+C:\Documents and Settings\AVI\Мои документы\MOD_zaochn\MNS_min\FRQVC\R.cpp(57) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+SF.CPP
+C:\Documents and Settings\AVI\Мои документы\MOD_zaochn\MNS_min\FRQVC\SF.CPP(46) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+C:\Documents and Settings\AVI\Мои документы\MOD_zaochn\MNS_min\FRQVC\SF.CPP(47) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+C:\Documents and Settings\AVI\Мои документы\MOD_zaochn\MNS_min\FRQVC\SF.CPP(48) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+C:\Documents and Settings\AVI\Мои документы\MOD_zaochn\MNS_min\FRQVC\SF.CPP(49) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+C:\Documents and Settings\AVI\Мои документы\MOD_zaochn\MNS_min\FRQVC\SF.CPP(50) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+C:\Documents and Settings\AVI\Мои документы\MOD_zaochn\MNS_min\FRQVC\SF.CPP(51) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+C:\Documents and Settings\AVI\Мои документы\MOD_zaochn\MNS_min\FRQVC\SF.CPP(96) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+C:\Documents and Settings\AVI\Мои документы\MOD_zaochn\MNS_min\FRQVC\SF.CPP(97) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+C:\Documents and Settings\AVI\Мои документы\MOD_zaochn\MNS_min\FRQVC\SF.CPP(98) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+C:\Documents and Settings\AVI\Мои документы\MOD_zaochn\MNS_min\FRQVC\SF.CPP(99) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+SIZE.cpp
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+frqvc.exe - 0 error(s), 20 warning(s)
+</pre>
+</body>
+</html>
