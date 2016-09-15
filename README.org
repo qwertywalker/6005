@@ -1,1 +1,5 @@
-[[http://eplace.eltech.ru/][Портал совместного обучения]]
+[[http://www.eltech.ru/][- Главный сайт]]
+[[http://eplace.eltech.ru/][- Портал совместного обучения]]
+
+* Программирование
+[[file:/lectures/dev/README.org]]
