@@ -17,4 +17,4 @@
 - Д. Н. МЕНЬШИКОВ
 - Р. А. ЯЛЫШЕВ
 ** Ссылка 
-[[file:additional/Istoria_IX-XIX.pdf]]
+[[file:doc/additional/Istoria_IX-XIX.pdf]]
