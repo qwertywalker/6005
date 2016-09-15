@@ -4,7 +4,7 @@
 #+EMAIL: go.wigust@gmail.com
 #+LANGUAGE: ru
 
-#+STARTUP: noinlineimages
+#+STARTUP: no
 
 #+LaTeX_CLASS: article
 #+LaTeX_CLASS_OPTIONS: [a4paper]
@@ -115,6 +115,11 @@ http://www.eltech.ru
    - [[#Документы][Документы]]
  - [[#Вопросы][Вопросы]]
  - [[#Фотографии][Фотографии]]
+ - [[#Уведомление-о-себе-преподователей][Уведомление о себе преподователей]]
+   - [[#Письмо-1][Письмо]]
+     - [[#Адреса][Адреса]]
+     - [[#Тема-1][Тема]]
+     - [[#Содержание][Содержание]]
 
 * Встречу начал :TOC:
 Заместитель деканата открытого факультета по заочной форме обучения 
@@ -529,3 +534,29 @@ http://eplace.elthech.ru
 [[file:img/P60914-205712.jpg]]
 [[file:img/P60914-205722.jpg]]
 [[file:img/P60914-205725.jpg]]
+
+* Уведомление о себе преподователей
+
+** Письмо
+
+*** Адреса
+zaochnikleti@mail.ru
+elivbesedina@mail.ru
+matemleti@gmail.com
+vanisimov2005@mail.ru
+vnveresov@etu.ru
+s_v_vlasenko@mail.ru
+ikgp_etu@mail.ru
+bugrov.an@mail.ru
+alexander.n.bugrov@gmail.com
+dekanatof@yandex.ru
+
+*** Тема
+Фамилия Имя Отчество 6005
+
+*** Содержание
+Здравсвуйте. Пожалуйста, сохраните мой email адресс для связи со мной.
+
+alex@mail.ru
+
+(По желанию номер телефона.)
