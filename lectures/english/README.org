@@ -3,6 +3,8 @@
 * Тест
 [[file:doc/сканирование0007.pdf][Entrance Test]]
 
+* Результаты
+Отсылать на [[mailto:leti.6005@yandex.ru][leti.6005@yandex.ru]]
 * Ответы
 1. b)
 2. b)
