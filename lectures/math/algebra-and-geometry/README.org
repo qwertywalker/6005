@@ -41,12 +41,14 @@
 * Материал :noexport:
 - [[file:doc/1k1s_MA_2012.doc][Материал]]
 * Методические пособия :noexport:
-- [[file:doc/1k1s_kompl.chisla i mnogochleny.pdf]]
-- [[file:doc/1k1s_kompl.chisla_i_mnogochleny.pdf][Комплексные числа и многочлены]]
-- [[file:doc/1k1s_lim.pdf]]
-- [[file:doc/1k1s_matr_det_slu.pdf][Матрицы, определители, СЛУ]]
-- [[file:doc/1k1s_vektalg_analgeom.pdf][Векторная алгебра и аналитическая геометрия]]
-- [[file:doc/1k1s_МА_2012.doc]]
+** [[file:doc/1k1s_kompl.chisla i mnogochleny.pdf]]
+** [[file:doc/1k1s_kompl.chisla_i_mnogochleny.pdf][Комплексные числа и многочлены]]
+*** Ссылки в методичке
+[[file:doc/Письменный Д.Т. Полный курс.djvu][Д.Т. Полный курс]]
+** [[file:doc/1k1s_lim.pdf]]
+** [[file:doc/1k1s_matr_det_slu.pdf][Матрицы, определители, СЛУ]]
+** [[file:doc/1k1s_vektalg_analgeom.pdf][Векторная алгебра и аналитическая геометрия]]
+** [[file:doc/1k1s_МА_2012.doc]]
 
 * Конспект
 [[file:README.pdf][pdf]]
