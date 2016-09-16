@@ -8,7 +8,8 @@
 #+LATEX_HEADER: \hypersetup{colorlinks, citecolor=black, filecolor=black, linkcolor=black, urlcolor=blue}
 #+LaTeX_HEADER: \usepackage{amssymb}
 #+STARTUP: latexpreview
-* Содержание :TOC:
+
+* Содержание :TOC: :noexport:
  - [[#Материал][Материал]]
  - [[#Методические-пособия][Методические пособия]]
  - [[#Элементы-линейной-алгебры][Элементы линейной алгебры]]
@@ -37,9 +38,9 @@
      - [[#Действия-над-ними][Действия над ними]]
      - [[#5-Глvi-][[5. Гл.VI ]]]
 
-* Материал
+* Материал :noexport:
 - [[file:doc/1k1s_MA_2012.doc][Материал]]
-* Методические пособия
+* Методические пособия :noexport:
 - [[file:doc/1k1s_kompl.chisla i mnogochleny.pdf]]
 - [[file:doc/1k1s_kompl.chisla_i_mnogochleny.pdf][Комплексные числа и многочлены]]
 - [[file:doc/1k1s_lim.pdf]]
@@ -47,6 +48,8 @@
 - [[file:doc/1k1s_vektalg_analgeom.pdf][Векторная алгебра и аналитическая геометрия]]
 - [[file:doc/1k1s_МА_2012.doc]]
 
+* Конспект
+[[file:README.pdf][pdf]]
 * Элементы линейной алгебры
 ** Комплексные числа
 *** Определение
@@ -61,6 +64,7 @@
 $z$ - это комплексное число.
 
 $z=x+iy$
+
 $x, y \in {\rm I\!R}$
 
 ***** Части комплексного числа
@@ -75,14 +79,21 @@ $y=\operatorname{Im} z$
 $i^2=-1$
 
 $\sqrt{-1}=i$
+
 $\sqrt{-1}=-i$
 
+***** Пример возведения $i$ в различные степени
 $i^1 = i$
+
 $i^2 = -1$
+
 $i^3 = i^2 \times i = (-1) \times i = -i$
+
 $i^4 = i^3 \times i = -i \times i = -i^2 = 1$
+
 $i^5 = i^4 \times i = 1 \times i = i$
 
+****** Обобщение результата
 \begin{equation}
 i^n =
 \begin{cases}
