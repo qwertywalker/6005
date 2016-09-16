@@ -78,7 +78,7 @@
 
 * TODO Задания
 ** TODO Иностранный язык 
-*** [[file:doc/сканирование0007.pdf][Entrance Test]]
+*** [[file:lectures/english/doc/сканирование0007.pdf][Entrance Test]]
 **** Дата
 25.10.16
 **** Ответы
