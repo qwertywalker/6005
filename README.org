@@ -16,6 +16,7 @@
 * Сайты
 - [[http://www.eltech.ru/][Главный сайт]]
 - [[http://eplace.eltech.ru/][Портал совместного обучения]]
+- [[http://library.eltech.ru/][Электронная библиотека]]
 * Математика
 ** Алгебра и геометрия
 [[file:lectures/math/algebra-and-geometry/README.org][Подробнее]]
