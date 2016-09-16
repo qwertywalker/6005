@@ -71,6 +71,7 @@
 | Программирование группа 6091            |                                |           | [[mailto:alexander.n.bugrov@gmail.com][alexander.n.bugrov@gmail.com]]                   |                  |                   |
 | Химия                                   | ?                              | ?         | [[mailto:bugrov.an@mail.ru][bugrov.an@mail.ru]] [[mailto:alexander.n.bugrov@gmail.com][alexander.n.bugrov@gmail.com]] | ?                | ?                 |
 
+
 | Предмет                | Ответственный | Аудитория | Почта                |   Телефон | Время    |
 |------------------------+---------------+-----------+----------------------+-----------+----------|
 | Кафедра                | ?             |      3319 |                      | 356-45-47 | До 17:00 |
