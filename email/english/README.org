@@ -1,9 +1,9 @@
 #+TITLE: Письмо с просьбой переслать задания по английскому языку
 
 * Адрес
-[[elivbesedina@mail.ru]]
-[[leti-inyaz@yandex.ru]]
-[[zaochnikleti@mail.ru]]
+[[mailto:elivbesedina@mail.ru][elivbesedina@mail.ru]]
+[[mailto:leti-inyaz@yandex.ru][leti-inyaz@yandex.ru]]
+[[mailto:zaochnikleti@mail.ru][zaochnikleti@mail.ru]]
 
 * Тема
 Беседине Елене Ивановне от лица Заочной группы 6005 (Вычислительная техника (ВТ)) с просьбой переслать весь материал из электронного ящика zaochnikleti@mail.ru на электронный ящик leti.6005@yandex.ru
@@ -21,3 +21,17 @@
 
 * Вложения
 [[file:img/Screenshot_20160915_213558.png]]
+
+* 13:31
+
+** Адрес
+[[mailto:elivbesedina@mail.ru][elivbesedina@mail.ru]]
+
+** Тема
+Вопрос о результатах Entrance Test Заочная группа 6005 (Вычислительная техника (ВТ)).
+** Содержание
+Спасибо.
+
+Скажите, куда вам удобнее, чтобы мы выслали заполненные Entrance Test?
+
+Заочная группа 6005 (Вычислительная техника (ВТ)).
