@@ -6,6 +6,7 @@
 #+LaTeX_HEADER: \usepackage[english,russian]{babel}
 #+LaTeX_HEADER: \usepackage[unicode]{hyperref}
 #+LATEX_HEADER: \hypersetup{colorlinks, citecolor=black, filecolor=black, linkcolor=black, urlcolor=blue}
+#+LaTeX_HEADER: \usepackage{amssymb}
 #+STARTUP: latexpreview
 * Содержание :TOC:
  - [[#Материал][Материал]]
@@ -16,7 +17,7 @@
      - [[#Различные-формы-представления][Различные формы представления]]
        - [[#Алгебраическая][Алгебраическая]]
          - [[#Мнимая-единица][Мнимая единица]]
-         - [[#Части-комплексного-числа][Части комплексного числа.]]
+         - [[#Части-комплексного-числа][Части комплексного числа]]
            - [[#Вещественная][Вещественная]]
            - [[#Мнимая][Мнимая]]
          - [[#Дополнение][Дополнение]]
@@ -52,7 +53,27 @@ $x, y \in {\rm I\!R}$
 ***** Мнимая единица
 $i^2=-1$
 
-***** Части комплексного числа.
+$\sqrt{-1}=i$
+$\sqrt{-1}=-i$
+
+$i^1 = i$
+$i^2 = -1$
+$i^3 = i^2 \times i = (-1) \times i = -i$
+$i^4 = i^3 \times i = -i \times i = -i^2 = 1$
+$i^5 = i^4 \times i = 1 \times i = i$
+
+\begin{equation}
+i^n =
+\begin{cases}
+ 1,n = 4k,     k \in \mathbb{Z}\\
+ i,n = 4k + 1, k \in \mathbb{Z}\\
+-1,n = 4k + 2, k \in \mathbb{Z}\\
+-i,n = 4k + 3, k \in \mathbb{Z}\\
+\end{cases}
+\end{equation}
+
+
+***** Части комплексного числа
 
 ****** Вещественная
 $x = \Re\left(z\right)$
