@@ -3,16 +3,16 @@
 ** Письмо
 
 *** Адреса
-zaochnikleti@mail.ru
-elivbesedina@mail.ru
-matemleti@gmail.com
-vanisimov2005@mail.ru
-vnveresov@etu.ru
-s_v_vlasenko@mail.ru
-ikgp_etu@mail.ru
-bugrov.an@mail.ru
-alexander.n.bugrov@gmail.com
-dekanatof@yandex.ru
+zaochnikleti@mail.ru,
+elivbesedina@mail.ru,
+matemleti@gmail.com,
+vanisimov2005@mail.ru,
+vnveresov@etu.ru,
+s_v_vlasenko@mail.ru,
+ikgp_etu@mail.ru,
+bugrov.an@mail.ru,
+alexander.n.bugrov@gmail.com,
+dekanatof@yandex.ru,
 
 *** Тема
 Фамилия Имя Отчество 6005 контакты
