@@ -2,4 +2,5 @@
 
 * Тесты
 
-- [[file:tests/entrance-test.org][Entrance Test]] до 25.09.16
+- до 25.09.16 [[file:tests/entrance-test.org][Entrance Test]]
+  
