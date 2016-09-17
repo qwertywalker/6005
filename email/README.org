@@ -1,5 +1,3 @@
-* Необходимо отправить каждому
-[[file:send/README.org][Подробнее]]
 * Почта от лица группы
 - [[file:english/README.org][Иностранный язык]]
 - [[file:history/README.org][История]]
