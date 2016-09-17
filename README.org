@@ -32,10 +32,9 @@
 - [[file:lectures/graphics/README.org][Инженерная и компьютерная графика]]
  
 * TODO Сайты
-- [[http://www.eltech.ru/][Главный сайт]]
+- [[http://www.eltech.ru/][Сайт ВУЗА]]
 - [[http://eplace.eltech.ru/][Портал совместного обучения]]
 - [[http://library.eltech.ru/][Электронная библиотека]]
-
 
 * Контактная книга университета
 ** TODO Преподаватели
