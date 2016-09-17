@@ -34,3 +34,6 @@
 23. A
 24. B
 25. D
+
+* Источники
+- http://www.english.language.ru/tests/test6.html
