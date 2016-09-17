@@ -39,7 +39,7 @@
 - [[file:lectures/graphics/README.org][Инженерная и компьютерная графика]]
 
 ** Встречи
-- 14.09.15 [[https://github.com/wigust/6005/tree/master/meeting-14.09.15][Первая заочная встреча]]
+- 14.09.16 [[https://github.com/wigust/6005/tree/master/meeting/14.09.16/README.org][Первая заочная встреча]]
  
 * Сайты
 
