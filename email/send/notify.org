@@ -3,6 +3,8 @@
 ** Письмо
 
 *** Адреса
+Скопировать всю строку и вставить в адрес получателя.
+
 zaochnikleti@mail.ru,
 elivbesedina@mail.ru,
 matemleti@gmail.com,
