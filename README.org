@@ -17,6 +17,7 @@
  - [[#Сессия][Сессия]]
  - [[#Сайты][Сайты]]
    - [[#Официальные-сайты-ВУЗА][Официальные сайты ВУЗА]]
+     - [[#parsed][Parsed]]
    - [[#Помощники][Помощники]]
  - [[#Контактная-книга-университета][Контактная книга университета]]
    - [[#Преподаватели][Преподаватели]]
@@ -65,6 +66,18 @@
 - [[http://www.eltech.ru/][Главный сайт]]
 - [[http://eplace.eltech.ru/][Портал совместного обучения]]
 - [[http://library.eltech.ru/][Электронная библиотека]]
+
+*** Parsed
+- [[http://www.emccompo2017.eltech.ru][The 11th International Workshop On The Electromagnetic Compatibility Of Integrated Circuits]]
+- [[http://www.eltech.ru][СПбГЭТУ «ЛЭТИ»]]
+- [[http://www.euntqm.eltech.ru][European Universities Network for Total Quality Management EUN.TQM]]
+- [[http://nnb.eltech.ru][Международная конференция для школьников и поступающих в магистратуру «Наука настоящего и будущего»]]
+- [[http://kepstr.eltech.ru][Kepstr - Телекоммуникации Бугалтерский и финансовый учет Антенны и техника СВЧ Неразрушающий контроль.]]
+- [[http://etest.eltech.ru][Questionmark Perception]]
+- [[http://eltech.ru][СПбГЭТУ «ЛЭТИ»]]
+- [[http://bp.eltech.ru][Сетевое взаимодействие вузов по основным направлениям Болонского процесса]]
+- [[http://csat.eltech.ru][Научно-исследовательская группа компьютерных систем и технологий]]
+- [[http://www.ascor.eltech.ru][None]]
 
 ** Помощники
 Различные сайты для помощи в обучении от сообщества.
