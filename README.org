@@ -67,7 +67,7 @@
 - [[http://eplace.eltech.ru/][Портал совместного обучения]]
 - [[http://library.eltech.ru/][Электронная библиотека]]
 
-*** Parsed
+*** [[file:maltego/README.org][Parsed]]
 - [[http://www.emccompo2017.eltech.ru][The 11th International Workshop On The Electromagnetic Compatibility Of Integrated Circuits]]
 - [[http://www.eltech.ru][СПбГЭТУ «ЛЭТИ»]]
 - [[http://www.euntqm.eltech.ru][European Universities Network for Total Quality Management EUN.TQM]]
