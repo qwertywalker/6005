@@ -1,0 +1,14 @@
+* База
+Для тех кто любит почитать.... http://progaprosto.ru/doc/bazovye_znaniya_programmiro..
+
+[[Foundations_of_Programming_Fundamentals_torrent.torrent][Foundations_of_Programming_Fundamentals]]
+
+[[Foundations_of_Programming_Object-Oriented_Design_torrent.torrent][Foundations_of_Programming_Object-Oriented_Design]]
+* C++
+ссылки как и обещал. начнем с основ. Введение в С++ https://stepik.org/course/Введение-в-программирование..
+* Android
+Лучшая база знаний для начинающих android разработчиков на русском языке http://startandroid.ru/ru/
+* JavaScript
+JavaScript https://learn.javascript.ru/
+* SQL
+книжка по Sql. возможно кому будет интересно. читается легко. примерны не сложные. базовые знания сможете получить. http://forum.webmasterschool.ru/tmp/sql.pdf

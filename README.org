@@ -48,6 +48,7 @@
 - [[file:lectures/history/README.org][История]]
 - [[file:lectures/dev/README.org][Программирование]]
 - [[file:lectures/graphics/README.org][Инженерная и компьютерная графика]]
+- [[file:hobby/README.org][Хобби]]
 
 ** Встречи
 Намечающиеся встречи и заметки по прошедшим.
