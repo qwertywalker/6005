@@ -2,5 +2,4 @@
 
 * Тесты
 
-- до 25.09.16 [[file:tests/entrance-test.org][Entrance Test]]
-  
+- до 25.09.16 [[file:tests/entrance-test.org][Entrance Test]] Желательно делать самому, так как от него зависит, какие вам будут давать задания в дальнейшем.
