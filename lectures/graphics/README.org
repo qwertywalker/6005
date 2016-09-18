@@ -1,19 +1,8 @@
 * Содержание :TOC:
  - [[#Компас-3d][Компас-3D]]
-   - [[#torrent-клиент][Torrent клиент]]
-     - [[#Описание][Описание]]
-     - [[#Ссылки][Ссылки]]
-       - [[#utorrent][utorrent]]
-   - [[#Скачать][Скачать]]
 
 * Компас-3D
-** Torrent клиент
-*** Описание
-Необходим для скачивания
-*** Ссылки
-**** utorrent
-[[https://www.utorrent.com/intl/ru/downloads/complete?os=win][Windows]]
+После заполнения формы, на почту приходит письмо с ссылками для скачивания.
 
-** Скачать
-[[file:compas.torrent][torrent]]
+http://kompas.ru/kompas-3d/download/
 
